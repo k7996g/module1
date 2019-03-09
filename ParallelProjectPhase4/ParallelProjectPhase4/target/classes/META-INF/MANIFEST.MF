@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ParallelProjectPhase4
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: KAUGARG
+Implementation-Vendor-Id: com.cg.bankApplication
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ParallelProjectPhase4
+Created-By: Maven Integration for Eclipse
+
